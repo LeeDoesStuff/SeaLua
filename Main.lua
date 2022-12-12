@@ -1,1 +1,1 @@
-poopy = print
+excrete = print
